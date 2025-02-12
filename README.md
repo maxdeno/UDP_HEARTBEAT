@@ -23,6 +23,7 @@ The server performs the following:
 3. Detects the lost packets by checking sequence gaps
 4. Detects client failure, if no packet is received within a timeout period.
 
+There's a 30% packet loss simulated by the client.
 
 
 
